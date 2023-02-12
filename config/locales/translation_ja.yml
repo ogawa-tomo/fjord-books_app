@@ -23,3 +23,9 @@ ja:
       title: 本の新規作成
     edit:
       title: 本の編集
+    create:
+      success_message: 本の作成に成功しました。
+    update:
+      success_message: 本の更新に成功しました。
+    destroy:
+      success_message: 本の削除に成功しました。

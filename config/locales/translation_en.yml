@@ -23,3 +23,9 @@ en:
       title: New Book
     edit:
       title: Editing Book
+    create:
+      success_message: Book was successfully created.
+    update:
+      success_message: Book was successfully updated.
+    destroy:
+      success_message: Book was successfully destroyed.
