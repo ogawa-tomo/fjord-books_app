@@ -19,6 +19,7 @@ ja:
   books:
     index:
       new_book: 新規作成
+      delete_confirmation_message: 削除してよろしいですか？
     new:
       title: 本の新規作成
     edit:

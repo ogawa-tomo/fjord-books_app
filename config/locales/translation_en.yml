@@ -19,6 +19,7 @@ en:
   books:
     index:
       new_book: New Book
+      delete_confirmation_message: Are you sure?
     new:
       title: New Book
     edit:
