@@ -1,4 +1,10 @@
 en:
+  common:
+    show: Show
+    back: Back
+    edit: Edit
+    destroy: Destroy
+
   activerecord:
     models:
       book: Book  #g
@@ -9,3 +15,11 @@ en:
         memo: Memo  #g
         picture: Picture  #g
         title: Title  #g
+  
+  books:
+    index:
+      new_book: New Book
+    new:
+      title: New Book
+    edit:
+      title: Editing Book
