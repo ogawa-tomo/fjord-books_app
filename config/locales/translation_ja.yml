@@ -4,6 +4,8 @@ ja:
     back: 戻る
     edit: 編集
     destroy: 削除
+    create_new: 新規作成
+    delete_confirmation_message: 削除してよろしいですか？
 
   activerecord:
     models:
@@ -17,9 +19,6 @@ ja:
         title: タイトル  #g
   
   books:
-    index:
-      new_book: 新規作成
-      delete_confirmation_message: 削除してよろしいですか？
     new:
       title: 本の新規作成
     edit:

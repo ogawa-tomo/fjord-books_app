@@ -4,6 +4,8 @@ en:
     back: Back
     edit: Edit
     destroy: Destroy
+    create_new: Create New
+    delete_confirmation_message: Are you sure?
 
   activerecord:
     models:
@@ -17,9 +19,6 @@ en:
         title: Title  #g
   
   books:
-    index:
-      new_book: New Book
-      delete_confirmation_message: Are you sure?
     new:
       title: New Book
     edit:
