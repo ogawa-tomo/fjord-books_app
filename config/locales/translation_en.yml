@@ -1,0 +1,31 @@
+en:
+  common:
+    show: Show
+    back: Back
+    edit: Edit
+    destroy: Destroy
+    create_new: Create New
+    delete_confirmation_message: Are you sure?
+
+  activerecord:
+    models:
+      book: Book  #g
+
+    attributes:
+      book:
+        author: Author  #g
+        memo: Memo  #g
+        picture: Picture  #g
+        title: Title  #g
+  
+  books:
+    new:
+      title: New Book
+    edit:
+      title: Editing Book
+    create:
+      success_message: Book was successfully created.
+    update:
+      success_message: Book was successfully updated.
+    destroy:
+      success_message: Book was successfully destroyed.
